@@ -1,3 +1,4 @@
-# Welcome to Hübner
+# Welcome to Hubner
 
-prova prova prova
+Hubner is a work in porgress open library when anyone instrested in probability, computing and machine learning can partecipate.
+
